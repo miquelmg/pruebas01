@@ -15,7 +15,7 @@ unsigned long time_now_s;
 
 void setup()
 {
-  // put your setup code here, to run once:
+  // put your setup code here, to run once: HOLA ESTE ES MI CAMBIO 1 PARA INC0001
   Serial.begin(115200);
   Serial.println("e-Paper init and clear");
   epd.LDirInit();
